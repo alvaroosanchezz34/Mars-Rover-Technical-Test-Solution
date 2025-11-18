@@ -1,0 +1,16 @@
+{
+    "name": "mars-rover",
+    "version": "1.0.0",
+    "description": "Technical test: Mars Rover implementation",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "test": "mocha"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "mocha": "^10.0.0"
+    }
+}
